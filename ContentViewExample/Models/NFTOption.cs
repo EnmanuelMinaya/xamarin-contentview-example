@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ContentViewExample.Models
 {
-    public class NFTOption
+    public class NftOption
     {
-        public NFTOption(string title, string image, string price)
+        public NftOption(string title, string image, string price)
         {
             Title = title;
             Image = image;
